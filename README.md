@@ -27,5 +27,8 @@
  - [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/related?hl=en%20)
  - [actiTIME](https://chrome.google.com/webstore/detail/actitime-time-tracking-pr/oogddkbohgikljeadnkcepdmekigegck/related?hl=en)
  - [Ghostery](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij/related?hl=en)
+ - [Dimensions](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj/related)
+ - [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jcbmcnpepaddcedmjdcmhbekjhbfnlff/related?hl=en)
+
  
 
